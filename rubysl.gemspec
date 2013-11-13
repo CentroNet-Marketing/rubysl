@@ -94,6 +94,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "rubysl-timeout",        "~> 2.0"
   spec.add_runtime_dependency "rubysl-tmpdir",         "~> 2.0"
   spec.add_runtime_dependency "rubysl-tsort",          "~> 2.0"
+  spec.add_runtime_dependency "rubysl-tracer",         "~> 2.0"
   spec.add_runtime_dependency "rubysl-un",             "~> 2.0"
   spec.add_runtime_dependency "rubysl-uri",            "~> 2.0"
   spec.add_runtime_dependency "rubysl-weakref",        "~> 2.0"
